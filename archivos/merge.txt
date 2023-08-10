@@ -1,1 +1,5 @@
 Santiago Martínez Ríos	21	mejorar mis capacidades de programación
+
+Git reconoce el cambio ya que se creo un archivo
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo puesto que puede generar conflictos a la hora de realizar un push
